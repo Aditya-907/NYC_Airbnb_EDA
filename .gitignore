@@ -2,8 +2,6 @@
 env3/
 
 # Ignore data files
-data/
-*.csv
 *.db
 
 # Ignore Python cache and compiled stuff
