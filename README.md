@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-blue.svg" />
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange.svg" />
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
   <img src="https://img.shields.io/badge/EDA-Project-lightgrey.svg" />
 </p>
 
@@ -137,7 +136,7 @@ The platform exhibits classical microeconomic features of **price–demand elast
 
 **Aditya (@Aditya-907)**
 
-Email - adityasinght970@gmail.com  
+Email - adityasinght970@gmail.com
 
 **“Busy trying my best.”**
 
